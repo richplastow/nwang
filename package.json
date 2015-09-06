@@ -1,6 +1,6 @@
 {
   "name": "nwang",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A suite of functions which convert numbers into asian glyphs and back again",
   "main": "build/nwang.js",
   "directories": {
